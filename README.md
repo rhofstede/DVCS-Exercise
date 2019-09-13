@@ -1,1 +1,3 @@
 # DVCS-Exercise
+
+Rosemary Hofstede
