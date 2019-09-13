@@ -13,5 +13,10 @@ namespace DVCSExercise.Pages
         {
 
         }
+
+        protected void Push_Click(object sender, EventArgs e)
+        {
+            Label2.Text = "You touched the button";
+        }
     }
 }
